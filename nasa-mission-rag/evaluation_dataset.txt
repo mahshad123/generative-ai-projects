@@ -1,0 +1,44 @@
+Q1. What was the objective of the Apollo 11 mission?
+Expected response:
+    The Apollo 11 mission's objective was to perform the first crewed lunar
+    landing and return the crew safely to Earth. It aimed to land astronauts
+    Neil Armstrong and Edwin "Buzz" Aldrin on the Moon (with Michael Collins in
+    the Command Module) in July 1969.
+
+
+Q2. What emergency occurred during Apollo 13 and how did the crew respond?
+Expected response:
+    An oxygen tank in the Service Module exploded on April 13, 1970, while the
+    spacecraft was en route to the Moon, causing a critical loss of power,
+    oxygen, and water. The Moon landing was aborted. The crew used the Lunar
+    Module as a "lifeboat," conserved power and water, and worked with Mission
+    Control to return safely, splashing down on April 17, 1970.
+
+
+Q3. What happened during the Challenger launch?
+Expected response:
+    The Space Shuttle Challenger (mission STS-51L) broke apart about 73 seconds
+    after liftoff on January 28, 1986, resulting in the loss of all seven crew
+    members. The answer should be grounded in the retrieved mission-audio
+    transcripts; if the retrieved context does not contain a specific detail,
+    the system should say so rather than guess.
+
+
+Q4. Who were the crew members of Apollo 13?
+Expected response:
+    The Apollo 13 crew was commander Jim Lovell, command module pilot Jack
+    Swigert, and lunar module pilot Fred Haise.
+
+
+Q5. How was the Lunar Module used during Apollo 13's return to Earth?
+Expected response:
+    After the Service Module was disabled, the Lunar Module (LM) served as a
+    lifeboat: it provided life support (oxygen and power) for the crew and its
+    engine was used for course-correction burns to guide the spacecraft back to
+    Earth, since the Command Module's normal systems had to be powered down.
+
+
+Q6. When did Apollo 11 land on the Moon?
+Expected response:
+    Apollo 11 landed on the Moon on July 20, 1969, when the Lunar Module "Eagle"
+    touched down in the Sea of Tranquility.

@@ -1,0 +1,26 @@
+[
+  {
+    "category": "overview",
+    "question": "What was the objective of the Apollo 11 mission?"
+  },
+  {
+    "category": "emergency",
+    "question": "What emergency occurred during Apollo 13 and how did the crew respond?"
+  },
+  {
+    "category": "disaster_analysis",
+    "question": "What happened during the Challenger launch?"
+  },
+  {
+    "category": "crew",
+    "question": "Who were the crew members of Apollo 13?"
+  },
+  {
+    "category": "technical",
+    "question": "How was the Lunar Module used during Apollo 13's return to Earth?"
+  },
+  {
+    "category": "timeline",
+    "question": "When did Apollo 11 land on the Moon?"
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "results": [
+    {
+      "category": "overview",
+      "question": "What was the objective of the Apollo 11 mission?",
+      "answer": "The primary objective of the Apollo 11 mission was the first crewed landing on the Moon. The mission aimed to achieve a safe landing on the lunar surface, allow astronauts to explore the Moon's terrain, collect samples of lunar material, and return safely to Earth. The Apollo 11 Flight Plan, based on the trajectory parameters for the July 16, 1969 launch, was focused on executing this historic lunar landing mission.",
+      "scores": {
+        "faithfulness": 0.1429,
+        "answer_relevancy": 0.949
+      }
+    },
+    {
+      "category": "emergency",
+      "question": "What emergency occurred during Apollo 13 and how did the crew respond?",
+      "answer": "During the Apollo 13 mission, an oxygen tank in the Service Module exploded, causing a major malfunction. This explosion led to the loss of electrical power and the capability to generate oxygen, forcing the crew to transfer to the Lunar Module (LM) for their return trip to Earth.\n\nThe crew responded to this emergency by working closely with Mission Control to come up with solutions to ensure their safe return. They had to conserve power, water, and other essential supplies to maximize their chances of survival. The crew also had to navigate a series of critical maneuvers to align their trajectory for a safe reentry into Earth's atmosphere.\n\nUltimately, the crew successfully reentered the Earth's atmosphere and splashed down safely in the Pacific Ocean, thanks to the collaborative efforts of the astronauts and mission control working together under extreme pressure.",
+      "scores": {
+        "faithfulness": 0.0,
+        "answer_relevancy": 0.6406
+      }
+    },
+    {
+      "category": "disaster_analysis",
+      "question": "What happened during the Challenger launch?",
+      "answer": "During the Challenger (STS-51L) launch on January 28, 1986, a catastrophic failure occurred 73 seconds after liftoff. The Space Shuttle Challenger broke apart due to the failure of an O-ring seal in its right solid rocket booster. This failure led to the explosion of the external fuel tank and the disintegration of the orbiter, resulting in the tragic loss of all seven crew members on board. The investigation later revealed that the O-ring failed to properly seal due to cold weather conditions at the time of launch.",
+      "scores": {
+        "faithfulness": 0.0,
+        "answer_relevancy": 0.7469
+      }
+    },
+    {
+      "category": "crew",
+      "question": "Who were the crew members of Apollo 13?",
+      "answer": "The crew members of Apollo 13 were:\n1. James A. Lovell Jr. - Commander\n2. John L. Swigert Jr. - Command Module Pilot\n3. Fred W. Haise Jr. - Lunar Module Pilot\n\nIf you have any more questions about the Apollo 13 mission or any other NASA mission, feel free to ask!",
+      "scores": {
+        "faithfulness": 0.0,
+        "answer_relevancy": 1.0
+      }
+    },
+    {
+      "category": "technical",
+      "question": "How was the Lunar Module used during Apollo 13's return to Earth?",
+      "answer": "During Apollo 13's return to Earth, the Lunar Module (LM) played a crucial role in helping the crew survive and return safely. The LM was used as a lifeboat after an oxygen tank explosion in the Service Module forced the mission to be aborted. The LM's systems provided the crew with essential life support functions, such as oxygen, water, and power.\n\nThe LM's descent propulsion system was used to perform the critical engine burn needed to adjust the spacecraft's trajectory for a free-return trajectory back to Earth. The LM's guidance and navigation systems were also instrumental in ensuring the spacecraft's correct alignment for reentry into Earth's atmosphere.\n\nOverall, the LM served as a temporary shelter for the crew, providing them with the necessary resources to survive the journey back to Earth during the Apollo 13 mission.",
+      "scores": {
+        "faithfulness": 0.0,
+        "answer_relevancy": 0.915
+      }
+    },
+    {
+      "category": "timeline",
+      "question": "When did Apollo 11 land on the Moon?",
+      "answer": "Apollo 11 landed on the Moon on July 20, 1969. The mission launched on July 16, 1969, and the lunar module (LM) named Eagle landed on the Moon's surface four days later on July 20, 1969.",
+      "scores": {
+        "faithfulness": 0.6667,
+        "answer_relevancy": 0.8717
+      }
+    }
+  ],
+  "aggregate": {
+    "faithfulness": 0.1349,
+    "answer_relevancy": 0.8539
+  }
+}

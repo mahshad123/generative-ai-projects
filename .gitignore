@@ -1,0 +1,23 @@
+# Secrets
+.env
+key.txt
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Generated artifacts
+chroma_db*/
+*.log
+uploaded_media/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
